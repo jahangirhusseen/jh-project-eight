@@ -1,0 +1,362 @@
+[
+  {
+    "image": "https://i.postimg.cc/GpyFbHmW/Photo-Editor.jpg",
+    "title": "Photo Editor Pro",
+    "companyName": "PixelSoft Ltd.",
+    "id": 1,
+    "description": "Photo Editor Pro is a powerful photo editing tool that allows you to enhance your images like a professional. Apply a variety of filters to create stunning effects. Add fun stickers, text, and frames to personalize your photos. Use AI-powered tools to automatically improve image quality. Crop, rotate, and adjust brightness, contrast, and saturation with ease. Share your creations directly to social media or save them in high resolution. Regular updates provide new filters, effects, and editing tools to keep your experience fresh.",
+    "size": 45,
+    "reviews": 1200,
+    "ratingAvg": 4.5,
+    "downloads": 500000,
+    "ratings": [
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 80 },
+      { "name": "3 star", "count": 200 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 470 }
+    ]
+  },
+  {
+    "image": "https://i.postimg.cc/7L23qfLw/Task-Manager.png",
+    "title": "Task Manager",
+    "companyName": "Focus Labs",
+    "id": 2,
+    "description": "Task Manager helps you stay organized and productive every day. Easily create, edit, and prioritize tasks. Set reminders and recurring tasks to ensure nothing is missed. Track your progress and complete goals efficiently. Collaborate with others by sharing tasks and updates. Analyze your productivity with intuitive charts and reports. The simple and clean interface makes managing work and personal projects effortless and enjoyable.",
+    "size": 28,
+    "reviews": 980,
+    "ratingAvg": 4.2,
+    "downloads": 320000,
+    "ratings": [
+      { "name": "1 star", "count": 60 },
+      { "name": "2 star", "count": 70 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 300 },
+      { "name": "5 star", "count": 400 }
+    ]
+  },
+  {
+    "image": "https://i.postimg.cc/KYkjYzgh/Weather-Cast.png",
+    "title": "WeatherCast",
+    "companyName": "SkyNet Solutions",
+    "id": 3,
+    "description": "WeatherCast provides accurate weather forecasts for your location. Check hourly, daily, and weekly weather updates. View interactive radar maps to track storms and rainfall in real-time. Get live alerts for severe weather conditions to stay safe. Customize notifications for different locations around the world. Plan your activities and travel with confidence using precise forecasts. The user-friendly interface makes checking weather simple and enjoyable every day.",
+    "size": 36,
+    "reviews": 2200,
+    "ratingAvg": 4.6,
+    "downloads": 870000,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 120 },
+      { "name": "3 star", "count": 300 },
+      { "name": "4 star", "count": 600 },
+      { "name": "5 star", "count": 1080 }
+    ]
+  },
+  {
+    "image": "https://i.postimg.cc/t4fd0h9y/Music-Streamer.png",
+    "title": "Music Streamer",
+    "companyName": "WavePlay",
+    "id": 4,
+    "description": "Music Streamer gives you access to millions of songs and podcasts ad-free. Create playlists for every mood and occasion. Discover new artists, albums, and trending tracks with personalized recommendations. Enjoy premium sound quality and seamless streaming without interruptions. Download music for offline listening anytime, anywhere. Share your favorite tracks with friends easily on social media. The app is designed with a smooth and intuitive interface for an enjoyable music experience.",
+    "size": 52,
+    "reviews": 5400,
+    "ratingAvg": 4.8,
+    "downloads": 1200000,
+    "ratings": [
+      { "name": "1 star", "count": 80 },
+      { "name": "2 star", "count": 90 },
+      { "name": "3 star", "count": 200 },
+      { "name": "4 star", "count": 700 },
+      { "name": "5 star", "count": 4330 }
+    ]
+  },
+  {
+    "image": "https://i.postimg.cc/Sx5L0WkB/Fit-Genix.png",
+    "title": "Fitness Buddy",
+    "companyName": "FitGenix",
+    "id": 5,
+    "description": "Fitness Buddy acts as your personal trainer to help you stay fit and healthy. Access custom workout plans for all levels and goals. Track exercises and monitor progress over time. Follow meal plans tailored to your dietary needs. Log your weight, calories, and body metrics for motivation. Receive tips and tutorials for correct workout techniques. The app is designed with an engaging interface to support consistent fitness routines every day.",
+    "size": 60,
+    "reviews": 3200,
+    "ratingAvg": 4.4,
+    "downloads": 900000,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 200 },
+      { "name": "3 star", "count": 300 },
+      { "name": "4 star", "count": 900 },
+      { "name": "5 star", "count": 1650 }
+    ]
+  },
+  {
+    "image": "https://i.postimg.cc/BvKTJXnV/Note-Keeper.png",
+    "title": "Note Keeper",
+    "companyName": "MindFlow Apps",
+    "id": 6,
+    "description": "Note Keeper allows you to quickly jot down ideas, notes, and checklists. Sync all notes across multiple devices for easy access. Organize your notes with categories, tags, and folders. Add images, voice memos, and attachments to enhance your notes. Set reminders to never forget important tasks. Search and find notes instantly with smart filters. The clean and simple interface makes note-taking fast and efficient every day.",
+    "size": 20,
+    "reviews": 1300,
+    "ratingAvg": 4.3,
+    "downloads": 430000,
+    "ratings": [
+      { "name": "1 star", "count": 70 },
+      { "name": "2 star", "count": 90 },
+      { "name": "3 star", "count": 200 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 540 }
+    ]
+  },
+  {
+    "image": "https://i.postimg.cc/DwDQVq7V/Edu-Tech-Co.jpg",
+    "title": "Language Learner",
+    "companyName": "EduTech Co.",
+    "id": 7,
+    "description": "Language Learner makes learning new languages fun and interactive. Learn English, Spanish, and many other languages with easy lessons. Practice speaking, listening, reading, and writing skills. Use games and quizzes to reinforce learning. Track your progress and reach milestones efficiently. Access audio and visual resources to enhance understanding. The app’s intuitive interface motivates learners to continue practicing every day.",
+    "size": 48,
+    "reviews": 2700,
+    "ratingAvg": 4.7,
+    "downloads": 950000,
+    "ratings": [
+      { "name": "1 star", "count": 120 },
+      { "name": "2 star", "count": 140 },
+      { "name": "3 star", "count": 300 },
+      { "name": "4 star", "count": 600 },
+      { "name": "5 star", "count": 1540 }
+    ]
+  },
+  {
+    "image": "https://i.postimg.cc/DzXr78zh/Smart-Finance.jpg",
+    "title": "Expense Tracker",
+    "companyName": "SmartFinance",
+    "id": 8,
+    "description": "Expense Tracker helps you manage your finances easily. Log daily spending and categorize expenses for clarity. Set monthly budgets and monitor progress toward savings goals. Receive insights and reports to improve financial habits. Track bills, subscriptions, and recurring payments seamlessly. Securely store all financial data with privacy protection. The app offers a user-friendly interface to make money management simple and stress-free.",
+    "size": 26,
+    "reviews": 1500,
+    "ratingAvg": 4.4,
+    "downloads": 380000,
+    "ratings": [
+      { "name": "1 star", "count": 90 },
+      { "name": "2 star", "count": 100 },
+      { "name": "3 star", "count": 250 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 660 }
+    ]
+  },
+  {
+    "image": "https://i.postimg.cc/TPDVTpP8/Quick-Eats.png",
+    "title": "Food Delivery",
+    "companyName": "QuickEats",
+    "id": 9,
+    "description": "QuickEats lets you order food from your favorite restaurants quickly. Browse menus and discover new cuisines easily. Place orders and track delivery in real-time. Save your favorite meals and reorder with a single tap. Enjoy discounts, deals, and promotions regularly. Rate and review restaurants to share your experience. The app ensures a smooth, fast, and reliable food delivery service every day.",
+    "size": 55,
+    "reviews": 4800,
+    "ratingAvg": 4.6,
+    "downloads": 2000000,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 200 },
+      { "name": "3 star", "count": 500 },
+      { "name": "4 star", "count": 1000 },
+      { "name": "5 star", "count": 2950 }
+    ]
+  },
+  {
+    "image": "https://i.postimg.cc/GpyFbHmZ/Pro-Shot.png",
+    "title": "Camera360",
+    "companyName": "ProShot Labs",
+    "id": 10,
+    "description": "Camera360 allows you to capture stunning professional-quality photos. Access advanced camera tools and settings for perfect shots. Apply live filters and effects to see results instantly. Use editing tools to enhance images after capture. Create panoramas, selfies, and artistic compositions easily. Save and share images in high resolution with friends and social media. The app offers an intuitive interface for both beginners and experts to enjoy photography.",
+    "size": 40,
+    "reviews": 2100,
+    "ratingAvg": 4.5,
+    "downloads": 780000,
+    "ratings": [
+      { "name": "1 star", "count": 90 },
+      { "name": "2 star", "count": 120 },
+      { "name": "3 star", "count": 250 },
+      { "name": "4 star", "count": 600 },
+      { "name": "5 star", "count": 1040 }
+    ]
+  },
+  {
+    "image": "https://i.postimg.cc/RZ81rcvm/Global-Media.jpg",
+    "title": "NewsNow",
+    "companyName": "Global Media Ltd.",
+    "id": 11,
+    "description": "NewsNow delivers breaking news and trending updates from around the world. Stay informed with real-time notifications on important events. Browse news categories including politics, sports, technology, and entertainment. Read detailed articles with images, videos, and live coverage. Save your favorite stories to read offline anytime. Share news easily with friends and social media. The app provides a clean, fast, and intuitive interface for a seamless news experience.",
+    "size": 33,
+    "reviews": 3100,
+    "ratingAvg": 4.1,
+    "downloads": 600000,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 250 },
+      { "name": "3 star", "count": 600 },
+      { "name": "4 star", "count": 1000 },
+      { "name": "5 star", "count": 1050 }
+    ]
+  },
+  {
+    "image": "https://i.postimg.cc/k5bQ7B5J/Zen-World.jpg",
+    "title": "Meditation Guide",
+    "companyName": "ZenWorld",
+    "id": 12,
+    "description": "Meditation Guide offers relaxing music and guided sessions to reduce stress. Learn various meditation techniques suitable for beginners and experts. Follow breathing exercises to improve focus and calm your mind. Access daily mindfulness tips to enhance mental wellbeing. Track your meditation progress and milestones easily. Enjoy offline sessions without needing internet connectivity. The app provides a peaceful and user-friendly interface for stress-free living.",
+    "size": 30,
+    "reviews": 1600,
+    "ratingAvg": 4.7,
+    "downloads": 410000,
+    "ratings": [
+      { "name": "1 star", "count": 60 },
+      { "name": "2 star", "count": 80 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 910 }
+    ]
+  },
+  {
+    "image": "https://i.postimg.cc/YSW6thSk/Shop-Smart.png",
+    "title": "Online Shop",
+    "companyName": "ShopSmart",
+    "id": 13,
+    "description": "Online Shop allows you to buy clothes, gadgets, and more conveniently. Browse a wide variety of products with detailed descriptions and images. Use secure checkout options and multiple payment methods. Track your orders and receive delivery notifications in real-time. Enjoy exclusive offers, discounts, and promotions regularly. Save your favorite items and create wishlists for future purchases. The app ensures a smooth, fast, and secure shopping experience every day.",
+    "size": 58,
+    "reviews": 5200,
+    "ratingAvg": 4.6,
+    "downloads": 1800000,
+    "ratings": [
+      { "name": "1 star", "count": 180 },
+      { "name": "2 star", "count": 210 },
+      { "name": "3 star", "count": 400 },
+      { "name": "4 star", "count": 1000 },
+      { "name": "5 star", "count": 3410 }
+    ]
+  },
+  {
+    "image": "https://i.postimg.cc/NF1rj0SK/Geo-Track.png",
+    "title": "Map Navigator",
+    "companyName": "GeoTrack",
+    "id": 14,
+    "description": "Map Navigator helps you reach any destination efficiently. Get real-time traffic updates and alternate routes to avoid delays. Use voice-guided directions for safe and convenient navigation. Save favorite locations and create custom routes. Access offline maps to navigate without internet connection. Find nearby services like gas stations, restaurants, and hospitals easily. The app provides a clear and intuitive interface for stress-free travel every day.",
+    "size": 47,
+    "reviews": 2500,
+    "ratingAvg": 4.3,
+    "downloads": 890000,
+    "ratings": [
+      { "name": "1 star", "count": 120 },
+      { "name": "2 star", "count": 150 },
+      { "name": "3 star", "count": 350 },
+      { "name": "4 star", "count": 800 },
+      { "name": "5 star", "count": 1080 }
+    ]
+  },
+  {
+    "image": "https://i.postimg.cc/YCVNc1tw/Data-Ease.png",
+    "title": "File Manager",
+    "companyName": "DataEase",
+    "id": 15,
+    "description": "File Manager helps you organize and manage your files securely. Access files quickly and perform actions like copy, move, rename, and delete. Store files safely with secure storage and encryption. Share files with friends or colleagues easily via multiple options. Search and sort files effortlessly for better organization. Manage documents, photos, videos, and other file types efficiently. The app is designed with a simple, fast, and intuitive interface for all users.",
+    "size": 25,
+    "reviews": 1200,
+    "ratingAvg": 4.2,
+    "downloads": 520000,
+    "ratings": [
+      { "name": "1 star", "count": 70 },
+      { "name": "2 star", "count": 100 },
+      { "name": "3 star", "count": 200 },
+      { "name": "4 star", "count": 350 },
+      { "name": "5 star", "count": 480 }
+    ]
+  },
+  {
+    "image": "https://i.postimg.cc/g0ZVGn0G/Travel-Planner.jpg",
+    "title": "Travel Planner",
+    "companyName": "TripEase",
+    "id": 16,
+    "description": "Travel Planner helps you organize your trips easily and efficiently. Create itineraries with attractions, hotels, and restaurants. Access maps and offline navigation for convenience. Track bookings, flights, and reservations in one place. Get personalized recommendations based on your preferences. Share travel plans with friends and family for collaboration. The app provides a simple, user-friendly interface to plan trips stress-free every time.",
+    "size": 39,
+    "reviews": 2100,
+    "ratingAvg": 4.5,
+    "downloads": 650000,
+    "ratings": [
+      { "name": "1 star", "count": 90 },
+      { "name": "2 star", "count": 110 },
+      { "name": "3 star", "count": 250 },
+      { "name": "4 star", "count": 600 },
+      { "name": "5 star", "count": 1050 }
+    ]
+  },
+  {
+    "image": "https://i.postimg.cc/4xMvCzXR/Chat-Box.png",
+    "title": "ChatBox",
+    "companyName": "ComHub",
+    "id": 17,
+    "description": "ChatBox is a fast and secure messaging app with voice and video calls. Send text, images, videos, and documents easily. Create group chats for friends, family, or work. Enjoy high-quality voice and video calls without interruptions. Receive real-time notifications for new messages. Customize themes, stickers, and emojis for fun conversations. The app provides a smooth, intuitive, and reliable messaging experience every day.",
+    "size": 42,
+    "reviews": 5000,
+    "ratingAvg": 4.6,
+    "downloads": 1500000,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 250 },
+      { "name": "3 star", "count": 400 },
+      { "name": "4 star", "count": 900 },
+      { "name": "5 star", "count": 3250 }
+    ]
+  },
+  {
+    "image": "https://i.postimg.cc/Zqd8JCqT/Word-Craft.jpg",
+    "title": "Dictionary Pro",
+    "companyName": "WordCraft",
+    "id": 18,
+    "description": "Dictionary Pro is an offline dictionary and thesaurus for comprehensive word reference. Find meanings, synonyms, and antonyms easily. Listen to pronunciation guides to improve your language skills. Access example sentences for better understanding. Save favorite words and create personal word lists. Search and browse words quickly with intuitive tools. The app provides a reliable and convenient language reference for learning and writing.",
+    "size": 22,
+    "reviews": 1300,
+    "ratingAvg": 4.5,
+    "downloads": 300000,
+    "ratings": [
+      { "name": "1 star", "count": 70 },
+      { "name": "2 star", "count": 80 },
+      { "name": "3 star", "count": 200 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 550 }
+    ]
+  },
+  {
+    "image": "https://i.postimg.cc/GpyFbHm6/PDFScanner.jpg",
+    "title": "PDF Scanner",
+    "companyName": "DocuScan",
+    "id": 19,
+    "description": "PDF Scanner allows you to scan and convert documents into PDF files easily. Use OCR technology to recognize and extract text accurately. Crop, rotate, and adjust scanned images for clarity. Organize documents into folders for easy access. Share scanned PDFs via email or cloud services. Save files locally or in cloud storage securely. The app offers a fast, intuitive, and reliable scanning experience for all types of documents.",
+    "size": 33,
+    "reviews": 1800,
+    "ratingAvg": 4.4,
+    "downloads": 490000,
+    "ratings": [
+      { "name": "1 star", "count": 80 },
+      { "name": "2 star", "count": 120 },
+      { "name": "3 star", "count": 250 },
+      { "name": "4 star", "count": 500 },
+      { "name": "5 star", "count": 850 }
+    ]
+  },
+  {
+    "image": "https://i.postimg.cc/cL5hspMm/Calendar-Plus.jpg",
+    "title": "Calendar Plus",
+    "companyName": "TimeFlow Tech",
+    "id": 20,
+    "description": "Calendar Plus is a smart calendar app for managing your schedule efficiently. Add events, meetings, and reminders with ease. Set recurring appointments and notifications to stay on track. Sync calendars across multiple devices seamlessly. View daily, weekly, and monthly schedules clearly. Customize colors, categories, and themes for better organization. The app provides a simple, intuitive, and reliable interface for effective time management every day.",
+    "size": 27,
+    "reviews": 900,
+    "ratingAvg": 4.3,
+    "downloads": 280000,
+    "ratings": [
+      { "name": "1 star", "count": 60 },
+      { "name": "2 star", "count": 80 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 300 },
+      { "name": "5 star", "count": 310 }
+    ]
+  }
+]
