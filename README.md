@@ -1,5 +1,7 @@
 # 📱 AppVerse – Modern App Store UI
 
+# live link :https://appverseproject.netlify.app/
+
 A fully responsive, interactive, and dynamic **App Store Web Application** built with React, Tailwind CSS, DaisyUI, and Recharts.  
 The project showcases app data, installation features using LocalStorage, and a detailed analytics view for each app.
 
